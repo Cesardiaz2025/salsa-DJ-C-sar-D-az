@@ -1,0 +1,6 @@
+{
+  "name": "DJ César Díaz — Todo el Poder de la Salsa",
+  "description": "Radio en vivo 24/7 de Salsa Brava, Romántica y Descargas, tornamesa animada, sintetizador de percusión latina, metrónomo BPM y 18 mezclas exclusivas de DJ César Díaz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
